@@ -1,7 +1,11 @@
 /***** MAIN *****/
 
+#nav {
+  height: 100px;
+}
+
 #header {
-  height: 400px;
+  
 }
 
 #about, #work, #contact {
