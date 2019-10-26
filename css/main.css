@@ -1,7 +1,7 @@
 /***** MAIN *****/
 
 #nav {
-  height: 100px;
+  height: auto;
 }
 
 #header {
@@ -50,3 +50,15 @@ h1 {
   width: 1200px;
 }
 
+.hero-image {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.hero-text {
+  bottom: 400px;
+  font-size: xx-large;
+  left: 88px;
+  position: absolute;
+}
