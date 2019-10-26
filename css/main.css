@@ -19,6 +19,12 @@ body {
   font-family: 'Space Mono', monospace;
 }
 
+#work h2, #about h2, #contact h2 {
+  color: #f16e24;
+  text-align: center;
+  text-transform: lowercase;
+}
+
 /***** FRAME *****/
 
 .full-width {
@@ -76,11 +82,6 @@ h1 {
   width: 30%;
 }
 
-#work h2 {
-  color: #f16e24;
-  text-align: center;
-}
-
 #jubilee-img {
   float: left;
 }
@@ -97,4 +98,8 @@ h1 {
 #rogue {
   float: left;
 }
+
+/***** About me *****/
+
+
 
