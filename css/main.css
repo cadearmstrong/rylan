@@ -1,0 +1,33 @@
+/***** MAIN *****/
+
+#header {
+  height: 400px;
+}
+
+#about, #work, #contact {
+  height: 600px;
+  clear: both;
+}
+
+body {
+  font-family: 'Space Mono', monospace;
+}
+
+/***** FRAME *****/
+
+.full-width {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+}
+
+.half-width {
+  float: left;
+  width: 600px;
+}
+
+/***** HEADER *****/
+
+h1 {
+  font-family: 'BioRhyme Expanded', serif;
+}
