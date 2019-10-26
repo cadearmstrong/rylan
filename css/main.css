@@ -4,6 +4,12 @@
   height: 150px;
 }
 
+#nav-bar a {
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: none;
+}
+
 #about, #portfolio, #contact {
   height: auto;
   clear: both;
