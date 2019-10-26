@@ -92,20 +92,20 @@ h1 {
   width: 30%;
 }
 
-#jubilee-img {
+#jubilee-image {
   float: left;
 }
 
-#jubilee {
+#jubilee-text {
   float: right;
 }
 
-#rogue-img {
+#rogue-image {
   clear: both;
   float: right;
 }
 
-#rogue {
+#rogue-text {
   float: left;
 }
 
