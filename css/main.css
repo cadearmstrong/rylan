@@ -58,7 +58,13 @@ h1 {
 
 .hero-text {
   bottom: 400px;
-  font-size: xx-large;
+  font-size: 4em;
   left: 88px;
   position: absolute;
+  text-align: initial;
+  width: 550px;
+}
+
+.hero-text span {
+  color: #af002f;
 }
