@@ -15,6 +15,7 @@
 
 body {
   background-color: #1f202b;
+  color: #ffffff;
   font-family: 'Space Mono', monospace;
 }
 
@@ -31,17 +32,21 @@ body {
   width: 600px;
 }
 
-/***** HEADER *****/
+/***** NAV *****/
 
 h1 {
   font-family: 'BioRhyme Expanded', serif;
 }
+
+#nav ul {
+  text-align: right;
+  font-size: large;
+}
+
+/***** HEADER *****/
 
 #header img {
   height: 730px;
   width: 1200px;
 }
 
-#nav ul {
-  text-align: right;
-}
