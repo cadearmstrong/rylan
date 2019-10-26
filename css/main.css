@@ -68,7 +68,7 @@ h1 {
 }
 
 .hero-text {
-  bottom: 400px;
+  bottom: 250px;
   font-size: 4em;
   left: 88px;
   position: absolute;
@@ -137,3 +137,16 @@ h1 {
 /***** Contact *****/
 
 
+/***** Footer *****/
+
+footer {
+  color: #9da8d6;
+}
+
+#footer-left {
+  text-align: right;
+}
+
+#footer-right {
+  text-align: left;
+}
