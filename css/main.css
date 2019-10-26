@@ -9,7 +9,7 @@
 }
 
 #about, #work, #contact {
-  height: 600px;
+  height: auto;
   clear: both;
 }
 
@@ -68,3 +68,33 @@ h1 {
 .hero-text span {
   color: #af002f;
 }
+
+/***** Work *****/
+
+#work img {
+  height: 30%;
+  width: 30%;
+}
+
+#work h2 {
+  color: #f16e24;
+  text-align: center;
+}
+
+#jubilee-img {
+  float: left;
+}
+
+#jubilee {
+  float: right;
+}
+
+#rogue-img {
+  clear: both;
+  float: right;
+}
+
+#rogue {
+  float: left;
+}
+
