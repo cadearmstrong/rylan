@@ -136,6 +136,14 @@ h1 {
 
 /***** Contact *****/
 
+#contact h3 {
+  color: #fe00ad;
+}
+
+.follow {
+  padding-left: 20px;
+  padding-right: 20px;
+}
 
 /***** Footer *****/
 
