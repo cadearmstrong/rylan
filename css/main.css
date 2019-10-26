@@ -39,6 +39,7 @@ body {
 }
 
 .third-width {
+  text-align: center;
   float: left;
   width: 400px;
 }
