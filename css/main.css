@@ -25,6 +25,10 @@ body {
   text-transform: lowercase;
 }
 
+#work,#about,#contact {
+  padding-top: 40px;
+}
+
 /***** FRAME *****/
 
 .full-width {
