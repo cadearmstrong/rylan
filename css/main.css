@@ -1,14 +1,10 @@
 /***** MAIN *****/
 
-#nav {
+#nav-bar {
   height: auto;
 }
 
-#header {
-
-}
-
-#about, #work, #contact {
+#about, #portfolio, #contact {
   height: auto;
   clear: both;
 }
@@ -19,13 +15,13 @@ body {
   font-family: 'Space Mono', monospace;
 }
 
-#work h2, #about h2, #contact h2 {
+#portfolio h2, #about h2, #contact h2 {
   color: #f16e24;
   text-align: center;
   text-transform: lowercase;
 }
 
-#work,#about,#contact {
+#portfolio,#about,#contact {
   padding-top: 40px;
 }
 
@@ -54,26 +50,25 @@ h1 {
   font-family: 'BioRhyme Expanded', serif;
 }
 
-#nav ul {
+#nav-bar ul {
   text-align: right;
   font-size: large;
 }
 
 /***** HEADER *****/
 
-#header img {
+#top-banner img {
   width: 1200px;
 }
 
 .hero-image {
+  color: white;
   position: relative;
   text-align: center;
-  color: white;
 }
 
 .hero-text {
   bottom: 250px;
-  font-size: 4em;
   left: 88px;
   position: absolute;
   text-align: initial;
@@ -87,9 +82,13 @@ h1 {
 
 /***** Work *****/
 
-#work img {
+#portfolio img {
   height: 30%;
   width: 30%;
+}
+
+.jubilee-container {
+  height: auto;
 }
 
 #jubilee-image {
